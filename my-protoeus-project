@@ -1,0 +1,6 @@
+git clone https://github.com/saikiran/my-proteus-project.git
+cd my-matlab-project
+# Copy files into the folder
+git add .
+git commit -m "Added proteus project files"
+git push origin main
